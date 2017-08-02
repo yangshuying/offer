@@ -21,5 +21,8 @@
     <ClCompile Include="之字形打印二叉树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="把二叉树打印成多行.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
