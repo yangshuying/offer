@@ -18,5 +18,8 @@
     <ClCompile Include="对称二叉树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="之字形打印二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
